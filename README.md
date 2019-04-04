@@ -4,7 +4,7 @@ React, GraphQL, Apollo app that uses the SpaceX API to display launches
 
 This code follow the Tutorial from Traversy Media on youtube:
 GraphQL With React & Apollo [1] - Express GraphQL Server
-#Video: https://youtu.be/SEMTj8w04Z8
+### Video: https://youtu.be/SEMTj8w04Z8
 
 
 ### Install dependencies (server & client)
@@ -23,7 +23,7 @@ npm run dev
 npm run server
 ```
 
-# Client only (:3000)
+### Client only (:3000)
 ```
 npm run client
 ```
@@ -36,7 +36,6 @@ cd client && npm run build
 ### Graphiql - http://localhost:5000/graphql
 
 
-### *************************************************************
 ### To test when server is running:
 ### Go  to http://localhost:5000/graphql and do something like: 
 ```
@@ -68,4 +67,3 @@ cd client && npm run build
   }
 }
 ```
-### ************************************************************* */
